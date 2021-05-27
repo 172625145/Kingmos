@@ -12,7 +12,9 @@ Kingmos 最初在ARM 上完成开发完成。
 Kingmos 第一版，开始于1998年。
 
 
-Kingmos 包括多个版本，其中：
+Kingmos 包括多个版本/分支，其中：
+
+Kingmos - https://github.com/172625145/Kingmos/ 。介绍Kingmos
 
 Kingmos-GUI- https://github.com/172625145/Kingmos-GUI 。一个主要包含图形部分的分支。
 
