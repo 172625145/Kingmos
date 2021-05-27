@@ -6,6 +6,15 @@ Kingmos 包括许多基于手机的应用。
 Kingmos 最初在ARM 上完成开发完成。
 Kingmos 第一版，开始于1998年。
 
+Kingmos 包括多个版本，其中：
+Kingmos-GUI- https://github.com/172625145/Kingmos-GUI 。一个主要包含图形部分的分支
+KingBuilder- https://github.com/172625145/Kingmos-KingBuilder 。 一个集成编译环境（IDE）
+Kingmos-Core- 一个关键核心代码
+Kingmos-Enterprise - 一个包括全部组件的完整版本。
+Kingmos-mobile - 一个面向智能手机的版本。
+
+================================================================================
+
 为什么会开发Kingmos ？ 一个人做了一个激动人心的梦而已！
 
 你可以自由使用。
