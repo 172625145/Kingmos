@@ -19,9 +19,9 @@ Kingmos - https://github.com/172625145/Kingmos/ 。介绍Kingmos
 Kingmos-GUI- https://github.com/172625145/Kingmos-GUI 。一个主要包含图形部分的分支。
 
 KingBuilder- https://github.com/172625145/Kingmos-KingBuilder 。 一个集成编译环境（IDE）。
-Kingmos-Core - https://github.com/172625145/Kingmos-Core。 包括简化的核心代码
 
-Kingmos-Core- 一个关键核心代码（后续有时间提交）。
+Kingmos-Core - https://github.com/172625145/Kingmos-Core。 包括简化的关键核心代码
+
 
 Kingmos-Enterprise - 一个包括全部组件的完整版本（后续有时间提交）。
 
