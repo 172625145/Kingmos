@@ -20,7 +20,7 @@ Kingmos-GUI- https://github.com/172625145/Kingmos-GUI 。一个主要包含图�
 
 KingBuilder- https://github.com/172625145/Kingmos-KingBuilder 。 一个集成编译环境（IDE）。
 
-Kingmos-Core - https://github.com/172625145/Kingmos-Core。 包括简化的关键核心代码
+Kingmos-Core - https://github.com/172625145/Kingmos-Core 。 包括简化的关键核心代码
 
 
 Kingmos-Enterprise - 一个包括全部组件的完整版本（后续有时间提交）。
@@ -33,5 +33,5 @@ Kingmos-mobile - 一个面向智能手机的版本（后续有时间提交）。
 
 你可以自由使用。
 
-如果你有问题，可以email to： 172625145@qq.com。如果我有时间，我会做出解答。
+如果你有问题，可以email to： 172625145@qq.com 。如果我有时间，我会做出解答。
 
